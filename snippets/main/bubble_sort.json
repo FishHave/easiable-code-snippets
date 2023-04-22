@@ -1,0 +1,17 @@
+{
+    "uploader":"FishHave",
+    "files":[
+        {
+            "path":"FishHave/bubble_sort.java",
+            "input":[
+                {
+                    "string": "<Type>",
+                    "description": "Type of the array"
+                }
+            ]
+        }
+    ],
+    "tags":[
+        "Sort"
+    ]
+}
