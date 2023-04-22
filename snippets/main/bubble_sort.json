@@ -1,5 +1,7 @@
 {
-    "uploader":"FishHave",
+    "uploader": "FishHave",
+    "title": "Bubble sort",
+    "description": "Bubble sort for arrays",
     "files":[
         {
             "path":"FishHave/bubble_sort.java",
@@ -12,6 +14,7 @@
         }
     ],
     "tags":[
+        "Array",
         "Sort"
     ]
 }
