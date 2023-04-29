@@ -4,7 +4,7 @@
     "description": "Hello World in different programming languages",
     "files":[
         {
-            "path":"FishHave/HelloWorld/helloworld.java",
+            "path":"FishHave/Hello World/helloworld.java",
             "input":[
             ],
             "description": "Java"
