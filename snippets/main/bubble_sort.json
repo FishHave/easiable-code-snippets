@@ -10,7 +10,8 @@
                     "string": "<Type>",
                     "description": "Type of the array"
                 }
-            ]
+            ],
+            "description": "Java"
         }
     ],
     "tags":[
