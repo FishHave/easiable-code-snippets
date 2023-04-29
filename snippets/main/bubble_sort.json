@@ -38,6 +38,15 @@
             "input":[
             ],
             "description":"Javascript"
+        },
+        {
+            "path":"FishHave/bubble_sort.cs",
+            "input":[
+                {
+                    "string":"<Type>",
+                    "description": "Type of the array"
+                }
+            ]
         }
     ],
     "tags":[
