@@ -1,21 +1,16 @@
 {
     "uploader": "FishHave",
-    "title": "Bubble sort",
-    "description": "Bubble sort for arrays",
+    "title": "Hello World",
+    "description": "Hello World in different programming languages",
     "files":[
         {
-            "path":"FishHave/bubble_sort.java",
+            "path":"FishHave/HelloWorld/helloworld.java",
             "input":[
-                {
-                    "string": "<Type>",
-                    "description": "Type of the array"
-                }
             ],
             "description": "Java"
         }
     ],
     "tags":[
-        "Array",
-        "Sort"
+        "Hello World"
     ]
 }

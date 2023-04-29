@@ -4,7 +4,7 @@
     "description": "Bubble sort for arrays",
     "files":[
         {
-            "path":"FishHave/bubble_sort.java",
+            "path":"FishHave/Bubble sort/bubble_sort.java",
             "input":[
                 {
                     "string": "<Type>",
@@ -14,7 +14,7 @@
             "description": "Java"
         },
         {
-            "path":"FishHave/bubble_sort.cpp",
+            "path":"FishHave/Bubble sort/bubble_sort.cpp",
             "input":[
                 {
                     "string": "<Type>",
@@ -24,7 +24,7 @@
             "description": "C++"
         },
         {
-            "path":"FishHave/bubble_sort.c",
+            "path":"FishHave/Bubble sort/bubble_sort.c",
             "input":[
                 {
                     "string":"<Type>",
@@ -34,13 +34,13 @@
             "description":"C"
         },
         {
-            "path":"FishHave/bubble_sort.js",
+            "path":"FishHave/Bubble sort/bubble_sort.js",
             "input":[
             ],
             "description":"Javascript"
         },
         {
-            "path":"FishHave/bubble_sort.cs",
+            "path":"FishHave/Bubble sort/bubble_sort.cs",
             "input":[
                 {
                     "string":"<Type>",
@@ -49,11 +49,11 @@
             ]
         },
         {
-            "path":"FishHave/bubble_sort.py",
+            "path":"FishHave/Bubble sort/bubble_sort.py",
             "input":[]
         },
         {
-            "path":"FishHave/bubble_sort.go",
+            "path":"FishHave/Bubble sort/bubble_sort.go",
             "input":[
                 {
                     "string":"<Type>",
