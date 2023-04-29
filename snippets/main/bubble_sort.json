@@ -51,6 +51,15 @@
         {
             "path":"FishHave/bubble_sort.py",
             "input":[]
+        },
+        {
+            "path":"FishHave/bubble_sort.go",
+            "input":[
+                {
+                    "string":"<Type>",
+                    "description":"Type of the array"
+                }
+            ]
         }
     ],
     "tags":[
