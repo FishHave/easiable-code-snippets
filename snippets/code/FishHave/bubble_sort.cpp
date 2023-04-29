@@ -1,5 +1,6 @@
-public static <Type>[] bubbleSort(<Type>[] arr) {
-    int len = arr.length;
+std::vector<<Type>> sort(vector<<Type>> arr)
+{
+    int len = arr.size();
     
     for (int i = 0; i < len - 1; i++) {
         for (int j = 0; j < len - 1 - i; j++) {

@@ -1,5 +1,6 @@
-public static <Type>[] bubbleSort(<Type>[] arr) {
-    int len = arr.length;
+<Type>* sort(<Type> arr[])
+{
+    int len = sizeof(arr);
     
     for (int i = 0; i < len - 1; i++) {
         for (int j = 0; j < len - 1 - i; j++) {
@@ -11,5 +12,5 @@ public static <Type>[] bubbleSort(<Type>[] arr) {
         }
     }
 
-    return arr;
+    return &arr;
 }

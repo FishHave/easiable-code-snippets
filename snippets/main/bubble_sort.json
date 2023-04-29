@@ -12,6 +12,26 @@
                 }
             ],
             "description": "Java"
+        },
+        {
+            "path":"FishHave/bubble_sort.cpp",
+            "input":[
+                {
+                    "string": "<Type>",
+                    "description": "Type of the array"
+                }
+            ],
+            "description": "C++"
+        },
+        {
+            "path":"FishHave/bubble_sort.c",
+            "input":[
+                {
+                    "string":"<Type>",
+                    "description":"Type of the array"
+                }
+            ],
+            "description":"C"
         }
     ],
     "tags":[
