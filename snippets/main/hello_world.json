@@ -8,6 +8,11 @@
             "input":[
             ],
             "description": "Java"
+        },
+        {
+            "path":"FishHave/Hello World/helloworld.cpp",
+            "input":[],
+            "description":"C++"
         }
     ],
     "tags":[
