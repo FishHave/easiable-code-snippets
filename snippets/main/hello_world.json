@@ -16,12 +16,17 @@
         {
             "path":"FishHave/Hello World/helloworld.cobol",
             "input":[],
-            "description":"Cobol"
+            "description":"COBOL"
         },
         {
             "path": "FishHave/Hello World/helloworld.java",
             "input": [],
             "description": "Java"
+        },
+        {
+            "path":"FishHave/Hello World/helloworld.scala",
+            "input":[],
+            "description":"Scala"
         }
     ],
     "tags": [

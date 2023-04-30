@@ -1,1 +1,3 @@
-object HelloWorld 
+object HelloWorld extends App {
+    printIn("Hello World")
+}
