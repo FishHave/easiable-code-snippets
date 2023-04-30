@@ -2,20 +2,24 @@
     "uploader": "FishHave",
     "title": "Hello World",
     "description": "Hello World in different programming languages",
-    "files":[
+    "files": [
         {
-            "path":"FishHave/Hello World/helloworld.java",
-            "input":[
-            ],
-            "description": "Java"
+            "path": "FishHave/Hello World/helloworld.c",
+            "input":[],
+            "description":"C Language"
         },
         {
-            "path":"FishHave/Hello World/helloworld.cpp",
-            "input":[],
-            "description":"C++"
+            "path": "FishHave/Hello World/helloworld.cpp",
+            "input": [],
+            "description": "C++"
+        },
+        {
+            "path": "FishHave/Hello World/helloworld.java",
+            "input": [],
+            "description": "Java"
         }
     ],
-    "tags":[
+    "tags": [
         "Hello World"
     ]
 }
