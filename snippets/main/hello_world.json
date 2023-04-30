@@ -14,7 +14,9 @@
             "description": "C++"
         },
         {
-            
+            "path":"FishHave/Hello World/helloworld.cobol",
+            "input":[],
+            "description":"Cobol"
         },
         {
             "path": "FishHave/Hello World/helloworld.java",
