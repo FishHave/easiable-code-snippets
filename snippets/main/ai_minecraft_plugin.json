@@ -1,0 +1,18 @@
+{
+    "uploader": "FishHave",
+    "title": "AI Plugin",
+    "description": "The code for Minecraft plugins that AI generate",
+    "files":[
+        {
+            "path":"FishHave/AI Plugin/MyTask.java",
+            "input":[],
+            "description":"A timer for plugin"
+        }
+    ],
+    "tags":[
+        "Minecraft",
+        "Plugin",
+        "AI",
+        "Java"
+    ]
+}
